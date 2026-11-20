@@ -1,0 +1,496 @@
+document,location,claim,value,artifacts
+Main,Abstract,"abstract: corpus size, artifacts inside","5{,}175 / 7{,}008 / 73.8",exclusion-taxonomy-v1
+Main,Abstract,the share of exclusions a guard the request does not determine accounts for,nine,exclusion-taxonomy-v1
+Main,Abstract,abstract: the suite strategies,300 / 91.0 / 48 / 78.9 / two / 44.4,suite-strategy-study-v1
+Main,Abstract,abstract: the Cedar replication,99.3 / 90.5 / 28.5 / 96,cedar-suite-strategy-study-v1
+Main,Abstract,rego payoff: the abstract,99.9 / 97.6 / 42.5 / 13,rego-exact-adequacy-v1 rego-suite-strategy-study-v1
+Main,Abstract,real faults: the abstract,95.9 / 85.7 / 35.8 / 20,rego-real-faults-v1
+Main,Abstract,shipped Constraints: the abstract,89.5 / 75.3,rego-exact-adequacy-v1 rego-shipped-constraints-v1
+Main,Abstract,kyverno exact: the abstract,74.8 / 73.6,kyverno-exact-adequacy-v1
+Main,Abstract,"criteria: MC/DC in the abstract, the contributions and the conclusion",73.4 / 8,combination-criteria-study-v1
+Main,Abstract,criteria: MC/DC on XACML in the abstract,94.6 / 37,xacml-criteria-study-v1
+Main,Section 1 (Introduction),"contributions: corpus, refusals and inside","7{,}008 / 43 / 5{,}175",exclusion-taxonomy-v1
+Main,Section 1 (Introduction),contributions: inside verdicts certified call by call,"5{,}175 / 5{,}030 / 22",guard-certification-v1
+Main,Section 1 (Introduction),contributions: the exclusions crossed,"1{,}790 / 1{,}621 / 169",exclusion-crosstab-v1 exclusion-taxonomy-v1
+Main,Section 1 (Introduction),contributions: the third-party samples,"1{,}500 / 1{,}149 / 222",third-party-sample-summary-v1
+Main,Section 1 (Introduction),suite strategies: the contribution as the introduction states it,91.0 / 78.9 / 44.4 / 300,suite-strategy-study-v1
+Main,Section 1 (Introduction),contributions: the Cedar replication,99.3 / 90.5 / 28.5,cedar-suite-strategy-study-v1
+Main,Section 1 (Introduction),rego payoff: the contribution,99.9 / 97.6 / 42.5,rego-suite-strategy-study-v1
+Main,Section 1 (Introduction),real faults: the contribution,20 / 95.9 / 85.7 / 35.8,rego-real-faults-v1
+Main,Section 1 (Introduction),"criteria: MC/DC in the abstract, the contributions and the conclusion",73.4 / 8,combination-criteria-study-v1
+Main,Section 1 (Introduction),"xacml: MC/DC against the quotient, in brief",5.4 / sixteenth,xacml-criteria-study-v1
+Main,Section 1 (Introduction),"rego suite study: the gap, as the introduction restates it",23.2,rego-suite-adequacy-v1
+Main,Section 1 (Introduction),rego exact study: the contribution,5.3 / 13,rego-exact-adequacy-v1 rego-suite-adequacy-v1
+Main,Section 1 (Introduction),"rego exact study: the real gaps, as the contribution states them",27,rego-exact-adequacy-v1
+Main,Section 1 (Introduction),kyverno exact: the full version's contributions,44,kyverno-exact-adequacy-v1
+Main,Section 4 (The evaluation rule does not matter),"cedar archive: declined, where the row's summary is qualified","305 / 7{,}497",fragment-membership-cedar-archive-v1
+Main,Table 2,membership table row: Azure Policy repository,"3{,}769 / 2{,}137 / 1{,}589 / 43 / 56.7",fragment-membership-azure-wide-v1
+Main,Table 2,membership table row: AWS IAM managed,"1{,}651 / 1{,}651 / 0 / 0 / 100.0",fragment-membership-iam-wide-v1
+Main,Table 2,membership table row: XACML conformance,"1{,}007 / 953 / 54 / 0 / 94.6",fragment-membership-xacml-wide-v1
+Main,Table 2,membership table row: Kyverno library,237 / 206 / 31 / 0 / 86.9,fragment-membership-kyverno-wide-v1
+Main,Table 2,"membership table row: Rego, four corpora",186 / 115 / 71 / 0 / 61.8,fragment-membership-rego-wide-v1
+Main,Table 2,"membership table row: Rego, GCP library",87 / 54 / 33 / 0 / 62.1,fragment-membership-rego-gcp-v1
+Main,Table 2,"membership table row: Kyverno, third-party",49 / 37 / 12 / 0 / 75.5,fragment-membership-kyverno-thirdparty-v1
+Main,Table 2,membership table row: Cedar integration,22 / 22 / 0 / 0 / 100.0,fragment-membership-cedar-wide-v1
+Main,Table 2,membership table: less the schema-only artifacts,"6{,}839 / 5{,}175 / 1{,}621 / 43 / 75.7",exclusion-crosstab-v1 exclusion-taxonomy-v1
+Main,Table 2,membership table: less every schema,"6{,}092 / 5{,}175 / 874 / 43 / 84.9",exclusion-taxonomy-v1
+Main,Table 2,membership table caption: the Azure split,"1{,}444 / 1{,}589 / 855 / 729",fragment-membership-azure-wide-v1
+Main,Table 3,cross-tabulation: a guard the subject does not determine,"854 / 740 / 1{,}594",exclusion-crosstab-v1
+Main,Table 3,cross-tabulation: evaluation-time state,20 / 7 / 27,exclusion-crosstab-v1
+Main,Table 3,cross-tabulation: schemas and nothing else,169 / 169,exclusion-crosstab-v1
+Main,Table 3,cross-tabulation: the totals,"874 / 916 / 1{,}790",exclusion-taxonomy-v1
+Main,Table 3,cross-tabulation: its caption,"1{,}621 / 1{,}790 / 747",exclusion-crosstab-v1 exclusion-taxonomy-v1
+Main,Table 3,the share of exclusions a guard the request does not determine accounts for,nine,exclusion-taxonomy-v1
+Main,Section 6 (How much published policy is inside),"membership: the undetermined verdicts, as the text beside the table restates them",43,exclusion-taxonomy-v1
+Main,Section 6 (How much published policy is inside),families: verdicts on families decidable whatever their operands,"4{,}615",review-round-analyses-v1
+Main,Section 6 (How much published policy is inside),families: verdicts on a family that needs a literal operand,148,review-round-analyses-v1
+Main,Section 6 (How much published policy is inside),families: verdicts that record no family,412,review-round-analyses-v1
+Main,Section 6 (How much published policy is inside),census: the shared sentence of both main texts,"5{,}030 / 5{,}175 / 22",guard-certification-v1
+Main,Section 6 (How much published policy is inside),"census: the uncertified verdicts, in the main texts",145 / 76,guard-certification-v1
+Main,Section 6 (How much published policy is inside),census: the post-hoc reading in the full version,146 / 169 / 93,guard-certification-v1
+Main,Section 6 (How much published policy is inside),taxonomy: total restated in prose,"1{,}790",exclusion-taxonomy-v1
+Main,Section 6 (How much published policy is inside),taxonomy: the composition of the evaluation-time row,19 / two / one,fragment-membership-azure-wide-v1 fragment-membership-rego-wide-v1 fragment-membership-xacml-wide-v1
+Main,Section 6 (How much published policy is inside),exclusions whose guard the request does not determine,"1{,}621 / 90.6",exclusion-taxonomy-v1
+Main,Section 6 (How much published policy is inside),schemas that stay outside whatever their parameters,747 / 916,exclusion-crosstab-v1 exclusion-taxonomy-v1
+Main,Section 6 (How much published policy is inside),schemas their missing parameters alone keep out,169,exclusion-crosstab-v1
+Main,Section 6 (How much published policy is inside),"taxonomy: the schema-first share, restated as such",51,exclusion-taxonomy-v1
+Main,Section 6 (How much published policy is inside),azure: schemas an initiative instantiates completely,555 / 855,azure-initiative-bindings-v1
+Main,Section 6 (How much published policy is inside),gcp: schemas restated in the taxonomy discussion,31,
+Main,Section 6 (How much published policy is inside),azure: schemas no initiative binds,300,azure-initiative-bindings-v1
+Main,Section 6 (How much published policy is inside),"third-party sample: the caps, in the caption",three / five,
+Main,Section 6 (How much published policy is inside),third-party sample: files and repositories,"1{,}500 / 1{,}149",third-party-sample-summary-v1
+Main,Table 4,third-party sample: kyverno row,"3{,}079 / 400 / 313 / 270 / 118 / 12 / 58 / 78.9 / 74.3 / 82.9 / 86.9",third-party-sample-summary-v1
+Main,Table 4,third-party sample: rego row,"5{,}274 / 300 / 236 / 217 / 68 / 15 / 7 / 74.1 / 68.8 / 78.7 / 79.7",third-party-sample-summary-v1
+Main,Table 4,third-party sample: iam row,"2{,}226 / 400 / 352 / 372 / 28 / 0 / 28 / 100.0 / 99.0 / 100.0 / 100.0",third-party-sample-summary-v1
+Main,Table 4,third-party sample: cedar row,"2{,}668 / 400 / 248 / 382 / 8 / 10 / 8 / 97.4 / 95.4 / 98.6 / 100.0",third-party-sample-summary-v1
+Main,Table 4,"third-party sample: the caps, in the caption",three / five,
+Main,Section 6 (How much published policy is inside),"third-party sample: the schemas, by language",58 / 400 / 28 / 8 / 7 / 101,third-party-sample-summary-v1
+Main,Section 6 (How much published policy is inside),third-party sample: each share against its vendor,78.9 / 86.9 / 74.1 / 79.7 / 97.4 / 100.0 / 100.0,third-party-sample-summary-v1
+Main,Section 6 (How much published policy is inside),third-party sample: the taxonomy holds,222,third-party-sample-summary-v1
+Main,Section 6 (How much published policy is inside),IAM's share of the pool,23.6 / 27.1,exclusion-taxonomy-v1
+Main,Section 6 (How much published policy is inside),the pooled share with IAM removed,65.8 / 79.4,exclusion-taxonomy-v1
+Main,Section 6 (How much published policy is inside),"cedar archive: policies held, as the membership section restates it","7{,}497",fragment-membership-cedar-archive-v1
+Main,Section 7.1 (What decidability is worth),mutants generated (worked example),38,estimator-comparison-v1
+Main,Section 7.1 (What decidability is worth),mutants provably equivalent,16,estimator-comparison-v1
+Main,Section 7.1 (What decidability is worth),equivalent share of the mutant set,42.1,estimator-comparison-v1
+Main,Section 7.1 (What decidability is worth),"the price of undecided equivalence, in prose",63.6 / 36.8 / 57.9,estimator-comparison-v1
+Main,Section 7.1 (What decidability is worth),equivalent shares beyond the reference policy,25.5 / 17.2 / 17.3 / 3.5 / 12.2,review-round-analyses-v1
+Main,Table 6,"default: exact, approximate and understatement",63.6 / 36.8 / 26.8,estimator-comparison-v1
+Main,Table 6,"adversarial: exact, approximate and understatement",36.4 / 21.1 / 15.3,estimator-comparison-v1
+Main,Table 6,"coverage-matrix: exact, approximate and understatement",100.0 / 57.9 / 42.1,estimator-comparison-v1
+Main,Section 7.1 (What decidability is worth),sampling: the suite the paragraph samples,63.6,estimator-comparison-v1
+Main,Section 7.1 (What decidability is worth),mutants left live,22,estimator-comparison-v1
+Main,Section 7.1 (What decidability is worth),sampling: mean error of a sample of four,19,estimator-comparison-v1
+Main,Section 7.1 (What decidability is worth),sampling: every sample of four is more than ten points off,every,
+Main,Section 7.1 (What decidability is worth),sampling: exceedance share of a sample of twelve,"37.8 / 646{,}646",
+Main,Section 7.1 (What decidability is worth),sampling: the first sample size never ten points off,20 / 22,estimator-comparison-v1
+Main,Section 7.1 (What decidability is worth),sampling: the exact worst case of a sample of eight,"63.6 / 319{,}770",estimator-comparison-v1
+Main,Section 8 (What covering the quotient detects),suite strategies: the generated sample,"5{,}000 / 300 / 454 / 15 / 139",generated-policy-sample-v1
+Main,Section 8 (What covering the quotient detects),criteria: certain detection under the quotient,74.2 / 98.4,combination-criteria-study-v1
+Main,Table 7,suite strategies: decision row,2 / 44.4 / 39.0,suite-strategy-study-v1
+Main,Table 7,suite strategies: random_decision row,2 / 28.1 / 25.6,suite-strategy-study-v1
+Main,Table 7,suite strategies: random_quotient row,48 / 78.9 / 77.5,suite-strategy-study-v1
+Main,Table 7,suite strategies: quotient row,48 / 91.0 / 90.0,suite-strategy-study-v1
+Main,Table 7,suite strategies: refinement row,576 / 100.0 / 100.0,suite-strategy-study-v1
+Main,Table 7,suite strategies: policies scored,300,suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),"suite strategies: H1, the quotient against random at equal size",91.0 / 78.9 / 0.121 / 0.108 / 0.134 / 278 / 300 / 15,suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),"suite strategies: H2, the quotient against the proxy",0.465 / 0.441 / 0.489 / 291 / none,suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),"suite strategies: H3, the proxy against random at equal size",0.163 / 0.150 / 0.176,suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),suite strategies: the proxy's suite size against the quotient's,two / 48,suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),"suite strategies: the permutation floor, raw and corrected","0.0001 / 10{,}000 / 0.0003",suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),suite strategies: the refinement's suite size against the quotient's,576 / 48,suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: the population,382 / 366,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar: inside and parsed,382 / 366,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: the binding the artifact records,4.12.1,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: the eligible files,200,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: files over the cap,"28 / 20{,}000",cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar: over the cap,"28 / 20{,}000",cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: the completeness check's draws,200,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: files failing completeness,19,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: the primary analysis,153 / 97 / 96,cedar-suite-strategy-study-v1
+Main,Table 8,cedar replication: decision row,2 / 28.5,cedar-suite-strategy-study-v1
+Main,Table 8,cedar replication: random_decision row,2 / 17.2,cedar-suite-strategy-study-v1
+Main,Table 8,cedar replication: random_quotient row,36 / 90.5,cedar-suite-strategy-study-v1
+Main,Table 8,cedar replication: quotient row,36 / 99.3,cedar-suite-strategy-study-v1
+Main,Table 8,cedar replication: refinement row,81 / 100.0,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: H1,99.3 / 90.5 / 0.089 / 0.062 / 0.118 / 53 / 96 / 2,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: H2,28.5 / 0.708 / 0.665 / 0.748 / 94 / none,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: the secondary analysis,152,cedar-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),cedar replication: real policy is coarser than generated,81 / 576,cedar-suite-strategy-study-v1 suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: modules and policies,13 / 34,rego-exact-adequacy-v1 rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: the engine,1.20.2,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: the constancy check,34,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: live mutants per policy,9 / 41,rego-suite-strategy-study-v1
+Main,Table 9,rego payoff: the table's sizes,2 / 2 / 198 / 198 / 510,rego-suite-strategy-study-v1
+Main,Table 9,"rego payoff: the table, by policy",34 / 42.5 / 19.7 / 97.6 / 99.9 / 100.0,rego-suite-strategy-study-v1
+Main,Table 9,"rego payoff: the table, by module",13 / 47.5 / 22.7 / 96.3 / 99.9 / 100.0,rego-suite-strategy-study-v1
+Main,Table 9,rego payoff: the table's caption,34 / 13,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),"rego payoff: the population, as the abstract and the 10-page article put it",13 / 34,rego-exact-adequacy-v1 rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: the quotient,99.9,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: the lowest quotient score,98.5,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: random at the quotient's size,97.6,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: the sizes that make the random suite large,198 / 510,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: H1,0.022 / 0.011 / 0.036,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),"rego payoff: H1, policy by policy",29 / 34 / 3 / 2,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: H1 resampled by module,0.008 / 0.046 / 13 / 34,review-round-analyses-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: H1's module-level sign-flip,0.0002,review-round-analyses-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: the proxy,42.5,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: H2,0.573 / 0.528 / 0.614,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: H3,0.228 / 0.196 / 0.262,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: where random testing wins,two / disallowinteractive / two,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: the module reading,0.0006,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),rego payoff: with the development module,99.7 / 97.2 / 42.5,rego-suite-strategy-study-v1
+Main,Section 8 (What covering the quotient detects),"real faults: the population, as both main texts state it",20,rego-real-faults-v1
+Main,Section 8 (What covering the quotient detects),"real faults: the result, as both main texts state it",95.9 / 85.7 / 35.8,rego-real-faults-v1
+Main,Section 8 (What covering the quotient detects),real faults: counting the two unchanged fixes as unexposed,87.1 / 77.9 / 32.5,review-round-analyses-v1
+Main,Section 8 (What covering the quotient detects),"real faults: the unions, in the main text",14 / 20,rego-real-faults-v1
+Main,Section 8 (What covering the quotient detects),real faults: the fixes the quotient exposes only by chance,5 / 6,
+Main,Section 8 (What covering the quotient detects),criteria: the payoff sections' sentence,73.4 / 8 / 69.6 / 14 / 91.0 / 48 / 83.5 / 21 / 99.3 / 36,combination-criteria-study-v1
+Main,Section 8 (What covering the quotient detects),"xacml criteria: both halves, like for like, as both main texts state them",ten / 584 / 94.6 / 37,xacml-criteria-study-v1
+Main,Section 8 (What covering the quotient detects),"xacml: MC/DC against the quotient, in brief",5.4 / sixteenth,xacml-criteria-study-v1
+Main,Section 9 (What the coverage signals in use measure),rego suite study: the population,49,rego-suite-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego suite study: mean coverage,93.8,rego-suite-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego suite study: mean mutation score and pool,"70.6 / 2{,}057 / 2{,}984 / 48",rego-suite-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego suite study: the population without the development module,48,rego-suite-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego suite study: the gap,23.2 / 20.2 / 26.7,rego-suite-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),line coverage tracks the kill rate,0.51 / 0.0001,review-round-analyses-v1
+Main,Section 9 (What the coverage signals in use measure),rego suite study: the uneven gap by operator,80 / 94 / 51 / 48 / 37,rego-suite-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego suite study: the stillborn kills,"154 / 2{,}984",rego-suite-stillborn-v1
+Main,Section 9 (What the coverage signals in use measure),rego suite study: the kill rate over the mutants that load,69.0,rego-suite-stillborn-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the population inside the fragment,18 / 49,rego-exact-adequacy-v1 rego-suite-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the modules measured and excluded,"13 / 17 / three / 250{,}000 / one",rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the equivalent survivors,13 / 54 / 81 / 11,rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the pooled exact score,231 / 258 / 89.5 / 75.3,rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the raw score over the mutants that compile,74.0 / 312,rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the mean exact score,89.8 / 74.5 / 15.3 / 12.4 / 18.1,rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the equivalents relative to the tested settings,43,rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the score if the parameter-relative equivalents were separable,76.7,rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the range of the exact score,76.7 / 89.5,rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),shipped Constraints: the full version,43 / 26 / 89.5,rego-shipped-constraints-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: line coverage against exact adequacy,95.2 / 5.3 / 20.7,rego-exact-adequacy-v1 rego-suite-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),"rego exact study: line coverage against exact adequacy, restated",5.3 / 20.7,rego-exact-adequacy-v1 rego-suite-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),line coverage against the exact score,0.31 / 0.18,review-round-analyses-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: closing the gaps,27 / 27,rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego exact study: the ephemeral-container gap,five / 13,rego-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),kyverno exact: both main texts,44 / 2 / 34 / 74.8 / 73.6 / 32,kyverno-exact-adequacy-v1
+Main,Section 9 (What the coverage signals in use measure),rego schemas: the main text,10 / 26 / 62 / 103 / 81.3 / 65.9,rego-exact-adequacy-schemas-v1
+Main,Section 10 (Validating the construction and the instruments),pattern sets agreeing with the solver,10,witness-space-verification-v1
+Main,Section 10 (Validating the construction and the instruments),witness criterion: cases agreeing with the solver,14,witness-space-verification-v1
+Main,Section 10 (Validating the construction and the instruments),nested patterns: candidates and achievable,4 / 3,witness-space-verification-v1
+Main,Section 10 (Validating the construction and the instruments),chained patterns: candidates and achievable,8 / 5,witness-space-verification-v1
+Main,Section 10 (Validating the construction and the instruments),oracle: modules the engine was asked about,273,oracle-rego-v1
+Main,Section 10 (Validating the construction and the instruments),kyverno oracle: no disagreement,237,oracle-kyverno-v1
+Main,Section 10 (Validating the construction and the instruments),interpreter oracle: policies,202 / 200,interpreter-oracle-v1
+Main,Section 10 (Validating the construction and the instruments),interpreter oracle: witnesses and subjects,"1{,}702{,}668 / 8{,}080",interpreter-oracle-v1
+Main,Section 11 (Related work),"xacml criteria: both halves, like for like, as both main texts state them",ten / 584 / 94.6 / 37,xacml-criteria-study-v1
+Main,Section 12 (Threats to validity),minimal mutants: the full version's threats,83.7 / 72.2,minimal-mutant-study-v1
+Main,Section 12 (Threats to validity),"rego exact study: the realistic gaps, as the threats restate them",27,rego-exact-gaps-v1
+Main,Section 12 (Threats to validity),"how many corpora there are, wherever the count is restated",eight,exclusion-taxonomy-v1
+Main,Section 12 (Threats to validity),rego: third-party modules in the four-corpus row,62 / 186 / 60 / 2,fragment-membership-rego-wide-v1
+Main,Section 12 (Threats to validity),threats: XACML's share of the remainder,63.4,exclusion-taxonomy-v1
+Main,Section 12 (Threats to validity),threats: the pooled share restated,65.8,exclusion-taxonomy-v1
+Main,Section 12 (Threats to validity),threats: how many per-corpus shares there are,eight,exclusion-taxonomy-v1
+Main,Section 12 (Threats to validity),threats: Cedar files failing completeness,19,cedar-suite-strategy-study-v1
+Main,Section 12 (Threats to validity),cedar: failing the completeness check,19,cedar-suite-strategy-study-v1
+Main,Section 12 (Threats to validity),"cedar symcc: the files checked, as both main texts state it",71,cedar-symcc-crosscheck-v1
+Main,Section 12 (Threats to validity),"cedar symcc: no equivalent verdict refuted, as both main texts state it",173,cedar-symcc-crosscheck-v1
+Main,Section 12 (Threats to validity),"cedar symcc: verified in every environment, in the main text",161,cedar-symcc-crosscheck-v1
+Main,Section 12 (Threats to validity),rego payoff: the threats,13,rego-suite-strategy-study-v1
+Main,Section 12 (Threats to validity),"rego payoff: the threats, in points",2.2 / 1.1 / 3.6,rego-suite-strategy-study-v1
+Main,Section 12 (Threats to validity),threats: the clusters,34 / 13 / 20 / 18,review-round-analyses-v1
+Main,Section 12 (Threats to validity),threats: the clustered intervals,0.022 / 0.008 / 0.046 / 0.0002 / 0.102 / 0.028 / 0.181 / 0.0032 / 0.042 / 0.163 / 0.0005,review-round-analyses-v1
+Main,Section 12 (Threats to validity),"kyverno mutation: the cap, as the threats section restates it",eight / 11 / 52,kyverno-mutation-v1
+Main,Section 13 (Conclusion),conclusion: artifacts inside,"5{,}175 / 7{,}008",exclusion-taxonomy-v1
+Main,Section 13 (Conclusion),conclusion: the Azure definitions that are policies,"2{,}137 / 2{,}914",exclusion-taxonomy-v1
+Main,Section 13 (Conclusion),conclusion: what decidability is worth,42 / 12 / 25,review-round-analyses-v1
+Main,Section 13 (Conclusion),conclusion: the quotient against the proxy,91.0 / 44.4,suite-strategy-study-v1
+Main,Section 13 (Conclusion),conclusion: the Cedar replication,99.3 / 28.5,cedar-suite-strategy-study-v1
+Main,Section 13 (Conclusion),rego payoff: the conclusion,99.9 / 42.5,rego-suite-strategy-study-v1
+Main,Section 13 (Conclusion),real faults: the conclusion,20 / 95.9 / 35.8,rego-real-faults-v1
+Main,Section 13 (Conclusion),"criteria: MC/DC in the abstract, the contributions and the conclusion",73.4 / 8,combination-criteria-study-v1
+Main,Section 13 (Conclusion),"xacml: MC/DC against the quotient, in brief",5.4 / sixteenth,xacml-criteria-study-v1
+Main,Section 13 (Conclusion),rego suite study: the figures restated in the abstract and conclusion,93.8 / 70.6,rego-suite-adequacy-v1
+Main,Section 13 (Conclusion),conclusion: the weakenings the diff names,28.9,review-signal-study-v1
+Supplement,Section S1.1 (What the undetermined column rests on),"cedar archive: declined, beside the undetermined column","305 / 7{,}497",fragment-membership-cedar-archive-v1
+Supplement,Section S1.1 (What the undetermined column rests on),membership: exclusions restated where exhaustiveness is qualified,"1{,}790",exclusion-taxonomy-v1
+Supplement,"Section S1.2 (Adapters learned from the sample, and the engine on the Rego sample)",third-party sample: Rego verdicts resting on undefined data,43,third-party-sample-summary-v1
+Supplement,"Section S1.2 (Adapters learned from the sample, and the engine on the Rego sample)",third-party sample: the bound on the Conftest reading,43,third-party-sample-summary-v1
+Supplement,"Section S1.2 (Adapters learned from the sample, and the engine on the Rego sample)",sample oracle: modules checked,300,third-party-sample-rego-oracle-v1
+Supplement,"Section S1.2 (Adapters learned from the sample, and the engine on the Rego sample)","sample oracle: agreement, and why the rest disagree",300 / 150 / 6 / 6,third-party-sample-rego-oracle-v1
+Supplement,"Section S1.2 (Adapters learned from the sample, and the engine on the Rego sample)",sample oracle: modules the engine could not compile,144,third-party-sample-rego-oracle-v1
+Supplement,Section S1.3 (Policy written outside the vendors),third-party: corpus size and breadth,49 / 31 / 28,fragment-membership-kyverno-thirdparty-v1
+Supplement,Section S1.3 (Policy written outside the vendors),third-party: verdicts,37 / 12,fragment-membership-kyverno-thirdparty-v1
+Supplement,Section S1.3 (Policy written outside the vendors),third-party: exclusions are image verification,12,fragment-membership-kyverno-thirdparty-v1
+Supplement,Section S1.3 (Policy written outside the vendors),third-party: sample size restated in threats,49,fragment-membership-kyverno-thirdparty-v1
+Supplement,Section S1.3 (Policy written outside the vendors),"third-party sample: the caps, in the procedure",three / five,
+Supplement,Section S1.3 (Policy written outside the vendors),third-party sample: files and repositories,"1{,}500 / 1{,}149",third-party-sample-summary-v1
+Supplement,"Section S1.4 (The cloud providers' libraries, IAM and Cedar)",the two cloud corpora as a share of the pool,77,exclusion-taxonomy-v1
+Supplement,"Section S1.4 (The cloud providers' libraries, IAM and Cedar)",IAM's share of the pool,23.6 / 27.1,exclusion-taxonomy-v1
+Supplement,"Section S1.4 (The cloud providers' libraries, IAM and Cedar)",the pooled share with IAM removed,65.8 / 79.4,exclusion-taxonomy-v1
+Supplement,"Section S1.4 (The cloud providers' libraries, IAM and Cedar)","cedar archive: declined, in the caveat on the 100% rows","7{,}497 / 305",fragment-membership-cedar-archive-v1
+Supplement,Section S1.5 (Azure Policy),azure: definitions with an existence condition,"1{,}330",fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),azure: definitions deciding on a related resource,"1{,}444",fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),azure: the row's share after the guard regions were corrected,56.7,fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),azure: definitions reading state outside the resource from a guard,24,fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),azure: definitions calling a nondeterministic function,nine,fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),azure: definitions reported as schemas,112,fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),azure: parameterised and complete by their own defaults,"2{,}792 / 1{,}937",fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),"azure: definitions awaiting an assignment, and those it could judge",855 / 855,fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),"azure: schemas reported as such, and those reported under the existence test",112 / 743,fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),azure: how far counting by the reported reason would move the row,743,fragment-membership-azure-wide-v1
+Supplement,Section S1.5 (Azure Policy),rego: schemas that default some parameter but not all,5,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),rego: policies whose guard reads outside the subject,45,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),rego: policies reaching the injected inventory,35 / 11 / 24,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),"rego: other data documents, directly and through a rule",9 / 8 / 1,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),rego: the network call,1,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),"rego: policy schemas, counted over every obstruction",28,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),rego: schemas with an instantiating constraint,28,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),rego: schemas that are also reported under a stronger reason,28 / two,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),rego: share over artifacts that are policies,158 / 115 / 72.8,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),rego: outside only through a library rule,24 / 45,fragment-membership-rego-wide-v1
+Supplement,Section S1.6 (Rego and Google's library),gcp: schemas,33 / 87,fragment-membership-rego-gcp-v1
+Supplement,Section S1.6 (Rego and Google's library),gcp: templates complete by their own defaults,15,fragment-membership-rego-gcp-v1
+Supplement,Section S1.6 (Rego and Google's library),"gcp: templates reading no parameter, and the clock",39 / 2,fragment-membership-rego-gcp-v1
+Supplement,Section S1.6 (Rego and Google's library),gcp: share over artifacts that are policies,54 / 54 / 100.0,fragment-membership-rego-gcp-v1
+Supplement,Section S1.6 (Rego and Google's library),gcp: schemas with a sample constraint,31,
+Supplement,Section S1.7 (XACML),xacml: policies the filename convention left out,459,fragment-membership-xacml-wide-v1
+Supplement,Section S1.7 (XACML),xacml: the corpus after selecting by root element,"1{,}007",fragment-membership-xacml-wide-v1
+Supplement,Section S1.7 (XACML),xacml: policies reading the clock,15,
+Supplement,Section S3 (Computing the sampling error),"sampling: the formerly simulated rows, checked by enumeration","319{,}770 / 646{,}646",
+Supplement,Section S3 (Computing the sampling error),sampling: the mirror-image suite,36.4,estimator-comparison-v1
+Supplement,Section S5 (The decision-proxy experiment: history and stratification),domains where the published threshold is most informative,2,decision-threshold-analysis-v1
+Supplement,Section S5 (The decision-proxy experiment: history and stratification),domains carrying under 0.3 bits,4,decision-threshold-analysis-v1
+Supplement,Section S5 (The decision-proxy experiment: history and stratification),kyverno mutate: subjects and bits,88 / 0.000,decision-threshold-analysis-v1
+Supplement,Section S5 (The decision-proxy experiment: history and stratification),xacml: informative and published thresholds,0.985 / 0.276,decision-threshold-analysis-v1
+Supplement,Section S5 (The decision-proxy experiment: history and stratification),pooled stratum,0.223 / 0.013 / 52,fragment-stratified-test-v1
+Supplement,Section S5 (The decision-proxy experiment: history and stratification),inside-the-fragment stratum,39 / 0.243 / 0.039,fragment-stratified-test-v1
+Supplement,Section S5 (The decision-proxy experiment: history and stratification),outside-the-fragment stratum,13 / 0.192 / 0.129,fragment-stratified-test-v1
+Supplement,Section S5 (The decision-proxy experiment: history and stratification),graded trend test,0.138,decision-trend-test-v1
+Supplement,Section S5.1 (Statistical notes),kyverno mutation: the per-policy cap and how many policies reach it,eight / eight / 11 / 52,kyverno-mutation-v1
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego exact study: the smallest space over the cap,"376{,}704",
+Supplement,Table S1,rego exact study: the row for automount-serviceaccount-token,24 / 3 / 2 / 19 / 15 / 75.0 / 78.9 / 4,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for block-loadbalancer-services,11 / 0 / 2 / 9 / 8 / 72.7 / 88.9 / 1,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for block-nodeport-services,11 / 0 / 2 / 9 / 8 / 72.7 / 88.9 / 1,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for block-wildcard-ingress,22 / 0 / 2 / 20 / 19 / 86.4 / 95.0 / 1,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for disallowanonymous,34 / 6 / 5 / 23 / 21 / 79.4 / 91.3 / 2,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for disallowinteractive,31 / 1 / 5 / 25 / 24 / 80.6 / 96.0 / 1,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for imagedigests,24 / 0 / 6 / 18 / 12 / 50.0 / 66.7 / 6,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for allow-privilege-escalation,26 / 1 / 5 / 20 / 19 / 76.9 / 95.0 / 1,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for host-namespaces,14 / 0 / 3 / 11 / 11 / 78.6 / 100.0 / 0,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for host-process,25 / 0 / 6 / 19 / 18 / 72.0 / 94.7 / 1,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for privileged-containers,13 / 0 / 3 / 10 / 9 / 69.2 / 90.0 / 1,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for proc-mount,67 / 4 / 8 / 55 / 48 / 77.6 / 87.3 / 7,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the row for read-only-root-filesystem,26 / 1 / 5 / 20 / 19 / 76.9 / 95.0 / 1,rego-exact-adequacy-v1
+Supplement,Table S1,rego exact study: the table's total,13 / 328 / 16 / 54 / 258 / 231 / 75.3 / 89.5 / 27,rego-exact-adequacy-v1
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego exact study: the image-digest gaps,six,rego-exact-adequacy-v1
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego exact study: the gaps a realistic review exposes,27,rego-exact-gaps-v1
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego schemas: the population,Twenty-six,
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego schemas: the exclusions,Seven / nine,rego-exact-adequacy-schemas-v1
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego schemas: modules measured,ten,
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego schemas: the result,62 / 103 / 219 / 178 / 81.3 / 65.9 / 75.0 / 61.2 / 13.8 / 9.1 / 18.7,rego-exact-adequacy-schemas-v1
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego schemas: the score if every equivalent were separable,62 / 63.3,rego-exact-adequacy-schemas-v1
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego schemas: the gaps,41,rego-exact-adequacy-schemas-v1
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego schemas: the weakest suite of either population,verifydeprecatedapi / 1 / 11,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for allowedrepos,15 / 0 / 6 / 9 / 6 / 40.0 / 66.7 / 3,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for allowedreposv2,29 / 0 / 8 / 21 / 17 / 58.6 / 81.0 / 4,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for disallowedrepos,15 / 3 / 6 / 6 / 4 / 46.7 / 66.7 / 2,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for externalip,16 / 0 / 2 / 14 / 13 / 81.3 / 92.9 / 1,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for replicalimits,28 / 4 / 4 / 20 / 16 / 71.4 / 80.0 / 4,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for verifydeprecatedapi,21 / 1 / 9 / 11 / 1 / 9.5 / 9.1 / 10,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for flexvolume-drivers,20 / 4 / 3 / 13 / 13 / 85.0 / 100.0 / 0,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for forbidden-sysctls,58 / 7 / 8 / 43 / 35 / 72.4 / 81.4 / 8,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for fsgroup,68 / 2 / 13 / 53 / 51 / 77.9 / 96.2 / 2,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the row for host-network-ports,32 / 0 / 3 / 29 / 22 / 68.8 / 75.9 / 7,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the table's total,10 / 302 / 21 / 62 / 219 / 178 / 65.9 / 81.3 / 41,rego-exact-adequacy-schemas-v1
+Supplement,Table S2,rego schemas: the table's caption,Seven / nine,rego-exact-adequacy-schemas-v1
+Supplement,"Section S6 (The Gatekeeper suites, decided exactly)",rego suite study: the stillborn census,"154 / 2{,}984 / 69.0 / 70.6 / 24.9 / 23.2",rego-suite-adequacy-v1 rego-suite-stillborn-v1
+Supplement,Section S7 (Under every Constraint the library ships),shipped Constraints: the modules that gain a setting,Five / 13,rego-shipped-constraints-v1
+Supplement,Section S7 (Under every Constraint the library ships),shipped Constraints: the equivalents a new setting reaches,26 / 43 / 17,rego-shipped-constraints-v1
+Supplement,Section S7 (Under every Constraint the library ships),shipped Constraints: the score in the supplement,54 / 89.5,rego-shipped-constraints-v1
+Supplement,Section S7 (Under every Constraint the library ships),shipped Constraints: the worst case,76.7,rego-shipped-constraints-v1
+Supplement,Table S3,shipped Constraints table: no-anonymous-bindings,325 / 16 / 23 / 0 / 5,rego-shipped-constraints-v1
+Supplement,Table S3,shipped Constraints table: no-authenticated,163 / 18 / 23 / 0 / 5,rego-shipped-constraints-v1
+Supplement,Table S3,shipped Constraints table: psp-allow-privilege-escalation-container,"8{,}430 / 20 / 20 / 0 / 5",rego-shipped-constraints-v1
+Supplement,Table S3,shipped Constraints table: psp-privileged-container,"1{,}080 / 10 / 10 / 0 / 3",rego-shipped-constraints-v1
+Supplement,Table S3,shipped Constraints table: psp-proc-mount,"1{,}710 / 32 / 55 / 0 / 8",rego-shipped-constraints-v1
+Supplement,Table S3,shipped Constraints table: full_wildcard,"8{,}430 / 20 / 20 / 0 / 5",rego-shipped-constraints-v1
+Supplement,Table S3,shipped Constraints table: psp-readonlyrootfilesystem,"7{,}230 / 20 / 20 / 0 / 5",rego-shipped-constraints-v1
+Supplement,Table S3,shipped Constraints table: wildcard-prefix,"8{,}430 / 20 / 20 / 0 / 5",rego-shipped-constraints-v1
+Supplement,"Section S8 (The Kyverno suites, decided exactly)",kyverno exact: the population,206 / 86,kyverno-exact-adequacy-v1
+Supplement,"Section S8 (The Kyverno suites, decided exactly)",kyverno exact: the exclusions,28 / 10,kyverno-exact-adequacy-v1
+Supplement,"Section S8 (The Kyverno suites, decided exactly)",kyverno exact: the cells,"44 / 13{,}685",kyverno-exact-adequacy-v1
+Supplement,"Section S8 (The Kyverno suites, decided exactly)",kyverno exact: the completeness inputs,"29{,}267",kyverno-exact-adequacy-v1
+Supplement,"Section S8 (The Kyverno suites, decided exactly)",kyverno exact: the scores,95 / 129 / 34 / 2 / 74.8 / 73.6 / 80.8 / 79.1 / 1.7 / 0.0 / 4.5,kyverno-exact-adequacy-v1
+Supplement,"Section S8 (The Kyverno suites, decided exactly)",kyverno exact: the real gaps,32 / 11 / 44,kyverno-exact-adequacy-v1
+Supplement,"Section S8 (The Kyverno suites, decided exactly)",kyverno exact: closing the gaps,32,kyverno-exact-adequacy-v1
+Supplement,"Section S8 (The Kyverno suites, decided exactly)",kyverno exact: the weakenings,16,kyverno-exact-adequacy-v1
+Supplement,"Section S8 (The Kyverno suites, decided exactly)",kyverno exact: the anchors,16,kyverno-exact-adequacy-v1
+Supplement,Table S4,kyverno exact table: anchor,88 / 72 / 0 / 16,kyverno-exact-adequacy-v1
+Supplement,Table S4,kyverno exact table: weakening,19 / 2 / 1 / 16,kyverno-exact-adequacy-v1
+Supplement,Table S4,kyverno exact table: condition operator,9 / 9 / 0 / 0,kyverno-exact-adequacy-v1
+Supplement,Table S4,kyverno exact table: expression operator,9 / 8 / 1 / 0,kyverno-exact-adequacy-v1
+Supplement,Table S4,kyverno exact table: threshold,2 / 2 / 0 / 0,kyverno-exact-adequacy-v1
+Supplement,Table S4,kyverno exact table: boolean,2 / 2 / 0 / 0,kyverno-exact-adequacy-v1
+Supplement,Figure S2,rego payoff: the figure's legend and caption,34,rego-suite-strategy-study-v1
+Supplement,Figure S2,the payoff figure's median suite sizes,2 / 48 / 36 / 198,cedar-suite-strategy-study-v1 rego-suite-strategy-study-v1 suite-strategy-study-v1
+Supplement,"Section S10 (Real faults, exposed)",real faults: the candidates,72,
+Supplement,"Section S10 (Real faults, exposed)",real faults: the classification,39 / 33,
+Supplement,"Section S10 (Real faults, exposed)",real faults: the population,34,
+Supplement,"Section S10 (Real faults, exposed)",real faults: the corpus left out,5,
+Supplement,"Section S10 (Real faults, exposed)",real faults: how many are scored,32 / 20,rego-real-faults-v1
+Supplement,"Section S10 (Real faults, exposed)",real faults: the faults outside the fragment,"\#8, \#9, \#10 / \#15",rego-real-faults-v1
+Supplement,"Section S10 (Real faults, exposed)",real faults: the other exclusions,"\#1, \#19, \#28, \#41 / \#12 / \#51",rego-real-faults-v1
+Supplement,"Section S10 (Real faults, exposed)",real faults: no decision change,"\#11, \#52 / 52",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #3,"GK / 5 / 1{,}397 / 761 / 4 / union /  / 100.0 / 99.7 / 2.8",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #6,GK / 7 / 906 / 522 / 60 / union /  / 100.0 / 100.0 / 100.0,rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #13,"CV / 1 / 4{,}820 / 204 / 90 / splits / yes / 99.8 / 98.0 / 25.0",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #14,CV / 1 / 620 / 30 / 29 / splits / yes / 73.7 / 77.1 / 14.1,rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #16,"CV / 1 / 13{,}020 / 4{,}236 / 90 / union /  / 100.0 / 100.0 / 7.0",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #17,"CV / 1 / 1{,}060 / 84 / 9 / splits / yes / 52.2 / 52.6 / 9.6",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #18,CV / 1 / 150 / 78 / 9 / union /  / 100.0 / 99.9 / 90.0,rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #20,"CV / 10 / 1{,}000 / 360 / 4 / union /  / 100.0 / 83.8 / 4.0",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #21,"CV / 10 / 1{,}000 / 360 / 4 / union /  / 100.0 / 83.8 / 4.0",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #22,"CV / 10 / 1{,}000 / 360 / 4 / union /  / 100.0 / 83.8 / 4.0",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #24,CV / 2 / 240 / 120 / 8 / union /  / 100.0 / 99.6 / 69.1,rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #26,"CV / 1 / 5{,}380 / 204 / 12 / splits / yes / 93.8 / 37.1 / 2.8",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #27,CV / 1 / 100 / 48 / 3 / union /  / 100.0 / 86.3 / 60.0,rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #29,"CV / 1 / 1{,}710 / 180 / 32 / contains / yes / 100.0 / 97.3 / 100.0",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #30,CV / 1 / 100 / 42 / 4 / union /  / 100.0 / 89.2 / 4.0,rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #33,CV / 1 / 70 / 30 / 1 / union /  / 100.0 / 42.9 / 1.4,rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #35,"CV / 3 / 1{,}200 / 378 / 168 / union /  / 100.0 / 100.0 / 100.0",rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #37,CV / 1 / 720 / 174 / 12 / union /  / 100.0 / 96.5 / 66.7,rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #43,CV / 1 / 780 / 36 / 41 / splits / yes / 97.7 / 86.3 / 48.0,rego-real-faults-v1
+Supplement,Table S5,real faults: the row for #45,"CV / 1 / 1{,}776 / 880 / 16 / union /  / 100.0 / 100.0 / 2.7",rego-real-faults-v1
+Supplement,"Section S10 (Real faults, exposed)","real faults: the unions, in the supporting information",14 / 20,rego-real-faults-v1
+Supplement,"Section S10 (Real faults, exposed)",real faults: how often the quotient finds a new field's fix,5 / 6 / 52.2 / 99.8,rego-real-faults-v1
+Supplement,"Section S10 (Real faults, exposed)",real faults: the means,95.9 / 85.7 / 35.8 / 11.7,rego-real-faults-v1
+Supplement,"Section S10 (Real faults, exposed)",real faults: H1,0.102 / 0.037 / 0.182 / 15 / 3 / 2 / 0.0009,rego-real-faults-v1
+Supplement,"Section S10 (Real faults, exposed)",real faults: H2,0.601 / 0.433 / 0.759 / 17 / 0.0001 / 0.0002,rego-real-faults-v1
+Supplement,"Section S10 (Real faults, exposed)",cedar real edits: what they do,43 / 24 / 21 / 24,cedar-real-edits-v1
+Supplement,"Section S10 (Real faults, exposed)",cedar real edits: what a suite of the earlier version catches,24 / 87.8 / 31.1,cedar-real-edits-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)",cedar symcc: the files the replication scored,153,cedar-schema-candidates-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)","cedar symcc: the files with an author's schema, and where it was found","72 / 53 / 41 / 18 / 13 / 1{,}718",cedar-schema-candidates-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)",cedar symcc: the population,71 / 173 / 830,cedar-symcc-crosscheck-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)",cedar symcc: verdicts reproduced before they were checked,71,cedar-symcc-crosscheck-v1
+Supplement,Table S6,cedar symcc: the table,173 / 0 / 161 / 10 / 2 / 830 / 743 / 72 / 15,cedar-symcc-crosscheck-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)","cedar symcc: the verdicts not verified everywhere, and why",161 / 12 / 9 / 3,cedar-symcc-crosscheck-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)","cedar symcc: verified where well typed, and well typed nowhere",10 / 2,cedar-symcc-crosscheck-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)",cedar symcc: counterexamples the engine confirms,743,cedar-symcc-crosscheck-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)",cedar symcc: counterexamples whose principal is the resource,32,cedar-symcc-crosscheck-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)",cedar symcc: the first run's deviation,25,
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)",cedar symcc: live mutants equivalent under the schema,830 / 72 / 8.7,cedar-symcc-crosscheck-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)",cedar symcc: the schema-equivalent mutants that widen a scope,61,cedar-symcc-crosscheck-v1
+Supplement,"Section S11 (The Cedar verdicts, checked by Cedar's own analyser)",cedar symcc: the live mutants in neither class,15,cedar-symcc-crosscheck-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: the engine oracle,372,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: the population,20 / 11,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: the mutants,"2{,}287 / 2{,}008 / 279 / 172",xacml-criteria-study-v1
+Supplement,Table S7,xacml criteria: the table's row for quotient,100.0 / 99.7 / 100.0 / 681.4,xacml-criteria-study-v1
+Supplement,Table S7,xacml criteria: the table's row for MCDC,94.6 / 74.2 / 97.4 / 36.9,xacml-criteria-study-v1
+Supplement,Table S7,xacml criteria: the table's row for NE-MCDC,94.3 / 69.8 / 97.0 / 34.6,xacml-criteria-study-v1
+Supplement,Table S7,xacml criteria: the table's row for DC,75.8 / 61.7 / 49.9 / 18.5,xacml-criteria-study-v1
+Supplement,Table S7,xacml criteria: the table's row for NE-DC,75.5 / 56.7 / 49.7 / 16.5,xacml-criteria-study-v1
+Supplement,Table S7,xacml criteria: the table's row for RC,69.1 / 51.7 / 42.9 / 15.5,xacml-criteria-study-v1
+Supplement,Table S7,xacml criteria: the table's row for PC,45.5 / 48.1 / 20.4 / 10.6,xacml-criteria-study-v1
+Supplement,Table S7,xacml criteria: the table's row for PD-PC,42.0 / 41.0 / 18.9 / 8.8,xacml-criteria-study-v1
+Supplement,Table S7,xacml criteria: the table's row for decision,44.9 / 36.1 / 23.4 / 3.0,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: where the quotient is the refinement,8 / 375 / 135 / 225 / 81 / 600 / 180,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)","xacml criteria: both halves, in the supporting information",584 / ten / 681 / eleven / 94.6 / 37,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: H1 against MC/DC,5.4 / 1.6 / 9.7 / 6 / 4 / 10 / 0.0312,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: H1 against the other criteria,24.2 / 58.0 / 0.0137,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: H2 for MC/DC,20.4 / 24.5 / 0.0137,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: H2 for rule and decision coverage,0.0537 / 0.0791,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)","xacml criteria: the quotient against random testing, described",99.7 / 0.3,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: their decision coverage and the paper's proxy,75.8 / 19 / 44.9 / 3,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: what dominates the pooled column,"1{,}403 / 2{,}008 / 993",xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: the bag check,279,xacml-criteria-study-v1
+Supplement,"Section S12 (Xu et al.'s criteria, on their own benchmark)",xacml criteria: the deviation,3,xacml-criteria-study-v1
+Supplement,Section S13 (Established criteria at matched size),criteria: infeasible requirements,65 / 71 / 276,combination-criteria-study-v1
+Supplement,Section S13 (Established criteria at matched size),criteria: the quotient beats every criterion,0.0014 / 0.0008,combination-criteria-study-v1
+Supplement,Section S13 (Established criteria at matched size),criteria: the generated policies in the supplement,73.4 / 8.9 / 69.6 / 14.5 / 91.0 / 132.1 / 48,combination-criteria-study-v1
+Supplement,Section S13 (Established criteria at matched size),criteria: Cedar in the supplement,83.5 / 26.7 / 62.9 / 11.8 / 99.3 / 370.9 / 36,combination-criteria-study-v1
+Supplement,Section S13 (Established criteria at matched size),criteria: gains over random suites of the same size,0.280 / 0.271 / 0.294 / 0.121,combination-criteria-study-v1
+Supplement,Section S13 (Established criteria at matched size),criteria: base choice against random,-0.037 / -0.028,combination-criteria-study-v1
+Supplement,Section S13 (Established criteria at matched size),criteria: certain detection in the supplement,74.2 / 98.4,combination-criteria-study-v1
+Supplement,Table S8,criteria table (generated): One witness per quotient class,132.1 / 48.0 / 91.0 / 78.9,combination-criteria-study-v1
+Supplement,Table S8,criteria table (generated): MC/DC over each rule's atoms,8.9 / 8.0 / 73.4 / 45.4 / 0.176 / 0.157 / 0.196,combination-criteria-study-v1
+Supplement,Table S8,criteria table (generated): Three-wise,14.5 / 14.1 / 69.6 / 56.2 / 0.214 / 0.197 / 0.231,combination-criteria-study-v1
+Supplement,Table S8,criteria table (generated): Decision coverage,4.4 / 4.0 / 64.3 / 37.2 / 0.267 / 0.248 / 0.287,combination-criteria-study-v1
+Supplement,Table S8,criteria table (generated): Rule coverage,3.1 / 3.0 / 62.4 / 33.0 / 0.286 / 0.264 / 0.306,combination-criteria-study-v1
+Supplement,Table S8,criteria table (generated): Pairwise,6.9 / 7.0 / 52.3 / 43.8 / 0.387 / 0.366 / 0.407,combination-criteria-study-v1
+Supplement,Table S8,criteria table (generated): Base choice,7.4 / 7.0 / 40.6 / 44.4 / 0.504 / 0.477 / 0.530,combination-criteria-study-v1
+Supplement,Table S8,criteria table (generated): Each choice,2.4 / 2.4 / 33.7 / 30.2 / 0.573 / 0.549 / 0.595,combination-criteria-study-v1
+Supplement,Table S9,criteria table (cedar): One witness per quotient class,370.9 / 36.0 / 99.3 / 90.5,combination-criteria-study-v1
+Supplement,Table S9,criteria table (cedar): Three-wise,26.7 / 20.9 / 83.5 / 73.0 / 0.159 / 0.121 / 0.199,combination-criteria-study-v1
+Supplement,Table S9,criteria table (cedar): Pairwise,11.8 / 10.0 / 62.9 / 55.3 / 0.364 / 0.312 / 0.416,combination-criteria-study-v1
+Supplement,Table S9,criteria table (cedar): Base choice,8.6 / 8.0 / 43.5 / 46.3 / 0.559 / 0.508 / 0.608,combination-criteria-study-v1
+Supplement,Table S9,criteria table (cedar): Each choice,3.9 / 3.0 / 33.8 / 30.5 / 0.655 / 0.610 / 0.698,combination-criteria-study-v1
+Supplement,Section S14 (The payoff over subsumption-minimal mutants),minimal mutants: the redundancy,"5{,}516 / 3{,}018 / 8 / 1{,}935 / 812",minimal-mutant-study-v1
+Supplement,Section S14 (The payoff over subsumption-minimal mutants),minimal mutants: the generated policies,83.7 / 91.0 / 72.2 / 78.9 / 24.5 / 44.4,minimal-mutant-study-v1
+Supplement,Section S14 (The payoff over subsumption-minimal mutants),minimal mutants: Cedar,98.6 / 88.3 / 17.3 / 99.3 / 90.5 / 28.5,minimal-mutant-study-v1
+Supplement,Section S14 (The payoff over subsumption-minimal mutants),minimal mutants: the hypotheses,0.0009,minimal-mutant-study-v1
+Supplement,Section S14 (The payoff over subsumption-minimal mutants),minimal mutants: the lead over random suites,11.6 / 10.3 / 12.1 / 8.9,minimal-mutant-study-v1
+Supplement,Section S14 (The payoff over subsumption-minimal mutants),minimal mutants: per-policy losses to random suites,25 / 4 / 15 / 2,cedar-suite-strategy-study-v1 minimal-mutant-study-v1 suite-strategy-study-v1
+Supplement,Section S14 (The payoff over subsumption-minimal mutants),minimal mutants: certain detection,54.9 / 96.7,minimal-mutant-study-v1
+Supplement,Table S10,minimal mutants table: One witness per quotient class,91.0 / 83.7 / 99.3 / 98.6,minimal-mutant-study-v1
+Supplement,Table S10,"minimal mutants table: Random, the quotient's size",78.9 / 72.2 / 90.5 / 88.3,minimal-mutant-study-v1
+Supplement,Table S10,minimal mutants table: Decision proxy,44.4 / 24.5 / 28.5 / 17.3,minimal-mutant-study-v1
+Supplement,Table S10,"minimal mutants table: Random, the proxy's size",28.1 / 17.5 / 17.2 / 13.8,minimal-mutant-study-v1
+Supplement,Table S10,minimal mutants table: MC/DC over each rule's atoms,73.4 / 57.5 / --- / ---,minimal-mutant-study-v1
+Supplement,Table S10,minimal mutants table: Three-wise,69.6 / 56.1 / 83.5 / 79.5,minimal-mutant-study-v1
+Supplement,Table S10,minimal mutants table: Decision coverage,64.3 / 40.6 / --- / ---,minimal-mutant-study-v1
+Supplement,Table S10,minimal mutants table: Rule coverage,62.4 / 37.8 / --- / ---,minimal-mutant-study-v1
+Supplement,Table S10,minimal mutants table: Pairwise,52.3 / 38.1 / 62.9 / 57.4,minimal-mutant-study-v1
+Supplement,Table S10,minimal mutants table: Base choice,40.6 / 29.6 / 43.5 / 38.6,minimal-mutant-study-v1
+Supplement,Table S10,minimal mutants table: Each choice,33.7 / 21.4 / 33.8 / 28.6,minimal-mutant-study-v1
+Supplement,Table S11,families: the table's totals,"5{,}175 / 4{,}615 / 148 / 412",review-round-analyses-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: Cedar by design,22,guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: the supplement's result,"5{,}030 / 5{,}175 / 97.2 / 22",guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: IAM,16,guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: Azure Policy,18 / 8 / 10,guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: Kyverno,34,guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: Rego under the protocol,93 / 169,guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: Rego modules calling re_match,7,guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),"census: the uncertified verdicts, in the supplement",145,guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: the post-hoc reading in the supplement,"146 / 169 / 93 / 5{,}083 / 5{,}175",guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: the first run,"4{,}984",guard-certification-v1
+Supplement,Section S16 (Certifying the inside verdicts call by call),census: the Google library on the first run,54,guard-certification-v1
+Supplement,Table S12,census table: AWS IAM,"1{,}651 / 1{,}635 / 16 / ---",guard-certification-v1
+Supplement,Table S12,census table: Azure Policy,"2{,}137 / 2{,}119 / 18 / ---",guard-certification-v1
+Supplement,Table S12,census table: XACML,953 / 952 / 1 / ---,guard-certification-v1
+Supplement,Table S12,census table: Cedar,22 / 22 / 0 / ---,guard-certification-v1
+Supplement,Table S12,"census table: Kyverno, vendor",206 / 176 / 30 / ---,guard-certification-v1
+Supplement,Table S12,"census table: Kyverno, third-party",37 / 33 / 4 / ---,guard-certification-v1
+Supplement,Table S12,"census table: Rego, four corpora",115 / 48 / 67 / 101,guard-certification-v1
+Supplement,Table S12,"census table: Rego, Google library",54 / 45 / 9 / 45,guard-certification-v1
+Supplement,Table S12,census table: the totals,"5{,}175 / 5{,}030 / 145 / 5{,}083",guard-certification-v1
+Supplement,Section S18 (Which changes a reviewer is shown),reviewers: the changes scored,"7{,}400 / 5{,}516 / 2{,}912",review-signal-study-v1
+Supplement,Table S15,reviewers: exact_table row,1.000 / 1.000 / 1.000 / 1.000,review-signal-study-v1
+Supplement,Table S15,reviewers: trustweave_diff row,0.813 / 0.730 / 0.289 / 0.925,review-signal-study-v1
+Supplement,Table S15,reviewers: suite_quotient row,0.932 / 1.000 / 0.929 / 1.000,review-signal-study-v1
+Supplement,Table S15,reviewers: suite_decision row,0.390 / 1.000 / 0.362 / 1.000,review-signal-study-v1
+Supplement,Table S15,reviewers: text_diff row,1.000 / 0.745 / 1.000 / 0.394,review-signal-study-v1
+Supplement,Table S15,reviewers: the changes pooled in the table,"7{,}400",review-signal-study-v1
+Supplement,Section S18 (Which changes a reviewer is shown),reviewers: what the diff routes and its false alarms,"81.3 / 1{,}658",review-signal-study-v1
+Supplement,Section S18 (Which changes a reviewer is shown),reviewers: weakenings the diff names,28.9,review-signal-study-v1
+Supplement,Section S18 (Which changes a reviewer is shown),reviewers: what the exact comparison decides per change,864,review-signal-study-v1
+Supplement,"Section S19 (The witness construction, checked against a solver)",pattern sets agreeing with the solver,10,witness-space-verification-v1
+Supplement,"Section S19 (The witness construction, checked against a solver)",witness criterion: cases agreeing with the solver,14,witness-space-verification-v1
+Supplement,"Section S19 (The witness construction, checked against a solver)",nested patterns: candidates and achievable,4 / 3,witness-space-verification-v1
+Supplement,"Section S19 (The witness construction, checked against a solver)",chained patterns: candidates and achievable,8 / 5,witness-space-verification-v1
+Supplement,Section S20 (The instruments against the engines),oracle: modules the engine was asked about,273,oracle-rego-v1
+Supplement,Section S20 (The instruments against the engines),oracle: templates and tests run under injected data,23 / 230,oracle-rego-v1
+Supplement,Section S20 (The instruments against the engines),kyverno oracle: policies judged,237,oracle-kyverno-v1
+Supplement,Section S20 (The instruments against the engines),kyverno oracle: inside policies invariant and tests compared,"206 / 2{,}129",oracle-kyverno-v1
+Supplement,Section S20 (The instruments against the engines),kyverno oracle: outside policies with stubs,27,oracle-kyverno-v1
+Supplement,Section S20 (The instruments against the engines),kyverno oracle: outside policies changed and unchanged under stub removal,24 / 3,oracle-kyverno-v1
+Supplement,Section S20 (The instruments against the engines),kyverno oracle: no disagreement,237,oracle-kyverno-v1
+Supplement,Section S20 (The instruments against the engines),interpreter oracle: policies,202 / 200,interpreter-oracle-v1
+Supplement,Section S20 (The instruments against the engines),interpreter oracle: witnesses and subjects,"1{,}702{,}668 / 8{,}080",interpreter-oracle-v1
+Supplement,Section S20 (The instruments against the engines),interpreter oracle: the cap and what it excludes,"200{,}000 / 201 / 414{,}720 / 110{,}592",interpreter-oracle-v1
+Supplement,Section S21 (Provenance and reproduction record),provenance: corpora re-measured and corpora not checked,7 / five,corpus-provenance-verification-v1
+Supplement,Section S21 (Provenance and reproduction record),cedar archive: policies the archive holds,"7{,}497",fragment-membership-cedar-archive-v1
+Supplement,Section S21 (Provenance and reproduction record),cedar archive: the three counts,"7{,}192 / 305 / 0",fragment-membership-cedar-archive-v1
+Supplement,Section S21 (Provenance and reproduction record),cedar: the loose files and the archive together,"7{,}519",fragment-membership-cedar-archive-v1 fragment-membership-cedar-wide-v1
+Supplement,Section S21 (Provenance and reproduction record),"cedar archive: refusals, every one an operator",305,fragment-membership-cedar-archive-v1
+Supplement,Section S21 (Provenance and reproduction record),third-party: what the superseded re-fetch reported,18,third-party-kyverno-revalidation-v1
+Supplement,Section S21 (Provenance and reproduction record),third-party: the current re-fetch,2026-10-03 / 49,third-party-kyverno-revalidation-v1
