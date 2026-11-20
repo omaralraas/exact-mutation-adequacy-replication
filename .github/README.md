@@ -1,5 +1,7 @@
 # Replication package: Exact Mutation Adequacy for Access-Control Policies Is a Property of Guards, Not of a Language
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24394244.svg)](https://doi.org/10.5281/zenodo.24394244)
+
 Mohammad Thabet Hassan, Omar Alraas, Abdulrahman Rezki, Ahmed Alameri, Fahad Sadek, Lobna AbuSerrieh
 · Canadian University Dubai · submitted to *The Journal of Systems and Software*
 
@@ -64,9 +66,10 @@ at their copy of the manuscript source.
 
 ## Citing
 
-Please cite the paper. To cite this package, use the DOI of the archived release that the
-paper's Data availability statement gives. [`CITATION.cff`](../CITATION.cff) cites the
-TrustWeave tool itself.
+Please cite the paper. The package as submitted, release `jss-v1`, is archived on Zenodo as
+[10.5281/zenodo.24394244](https://doi.org/10.5281/zenodo.24394244).
+[10.5281/zenodo.24394243](https://doi.org/10.5281/zenodo.24394243) always resolves to the
+latest version. [`CITATION.cff`](../CITATION.cff) cites the TrustWeave tool itself.
 
 ## Questions
 

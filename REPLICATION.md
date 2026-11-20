@@ -103,5 +103,6 @@ each case and its reason. In summary:
 The code, artifacts and documentation are under the Apache License 2.0 ([`LICENSE`](LICENSE)).
 The corpora and sampled files are not included, and remain under their owners' licences.
 
-The tagged release that the paper cites is archived on Zenodo, which assigns it a DOI.
-`.zenodo.json` holds the archive's metadata.
+Release `jss-v1`, the one the paper cites, is archived on Zenodo as
+[10.5281/zenodo.24394244](https://doi.org/10.5281/zenodo.24394244). `.zenodo.json` holds the
+archive's metadata.
