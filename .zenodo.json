@@ -1,31 +1,36 @@
 {
-  "title": "TrustWeave: instruments, artifacts and reproduction image for exact mutation adequacy of access-control policies",
+  "title": "Replication package for \"Exact Mutation Adequacy for Access-Control Policies Is a Property of Guards, Not of a Language\"",
   "upload_type": "software",
-  "description": "The measurement instruments, the JSON artifacts every reported figure is derived from, the pre-registration protocols and the reproduction image (reproduce/Dockerfile) behind TrustWeave's study of exact mutation adequacy for access-control policies. reproduce/README.md maps each measurement to the script and artifact that produced it.",
+  "access_right": "open",
+  "license": "apache-2.0",
+  "description": "<p>The code, data and proofs behind the paper's numbers. It contains the TrustWeave tool and the measurement scripts; the JSON artifacts those scripts wrote, each recording the corpus commit it read; the pre-registered study protocols, whose SHA-256 hashes the artifacts record; a container that pins every external tool (OPA, the Kyverno CLI, Cedar, cvc5) at the version the artifacts record; and the Lean 4 development. The policy corpora and the sampled third-party policy files are not redistributed. They remain under their owners' licences, and manifests identify each by repository, path, commit and SHA-256. REPLICATION.md describes the steps to reproduce the results, and CLAIMS.md maps each table and section of the paper to the artifacts its numbers come from.</p><p>This is a frozen copy of commit a5beb63033a3722a4051bd68241f25e010b0bace of https://github.com/MohammadThabetHassan/trustweave, with its history. The only additions are documentation and archive metadata.</p>",
   "creators": [
     {"name": "Hassan, Mohammad Thabet", "affiliation": "Canadian University Dubai"},
-    {"name": "Alameri, Ahmed Sami", "affiliation": "Canadian University Dubai"},
-    {"name": "Sadek, Fahad", "affiliation": "Canadian University Dubai"},
     {"name": "Alraas, Omar", "affiliation": "Canadian University Dubai"},
     {"name": "Rezki, Abdulrahman", "affiliation": "Canadian University Dubai"},
+    {"name": "Alameri, Ahmed", "affiliation": "Canadian University Dubai"},
+    {"name": "Sadek, Fahad", "affiliation": "Canadian University Dubai"},
     {"name": "AbuSerrieh, Lobna", "affiliation": "Canadian University Dubai"}
   ],
-  "license": "Apache-2.0",
   "keywords": [
+    "access control",
     "mutation testing",
     "equivalent mutants",
-    "access control",
-    "policy testing",
+    "policy equivalence",
+    "decidability",
     "test adequacy",
+    "policy testing",
     "Rego",
     "Cedar",
-    "XACML"
+    "XACML",
+    "Kyverno",
+    "replication package"
   ],
   "related_identifiers": [
     {
-      "identifier": "https://github.com/MohammadThabetHassan/trustweave",
-      "relation": "isSupplementTo",
-      "scheme": "url"
+      "identifier": "https://github.com/MohammadThabetHassan/trustweave/tree/a5beb63033a3722a4051bd68241f25e010b0bace",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
     }
   ]
 }
