@@ -11,9 +11,11 @@ It needs `supplement.tex`, `main.aux` and `supplement.aux` beside `main.tex` (th
 files give the printed numbers of tables, figures and sections). It writes `CLAIMS.md` and
 `replication/claims.csv`. The manuscript itself never enters the repository.
 
-Which artifact a claim depends on is found by perturbation: each artifact in turn has every
-number in it changed, the pins are recomputed, and a claim depends on the artifact if its
-expected value moves. No claim is attributed by reading the code.
+Which artifact a claim depends on is found by perturbation: each artifact in turn has its
+numbers, its records or its labels changed, the pins are recomputed, and a claim depends on
+the artifact if its expected value moves. No claim is attributed by reading the code.
+The tracing runs with asserts off (it re-runs itself under `python -O`), since a perturbed
+copy breaks the invariants the pins assert by design.
 """
 
 from __future__ import annotations
@@ -333,14 +335,14 @@ def main(argv: list[str] | None = None) -> int:
         "",
         f"- **{len(claims)} pins**, matched at **{len(rows)} places** in the text; "
         f"**{resolved}** of those are traced to the artifact they depend on.",
-        "- An artifact counts as a source of a claim when changing the numbers in that artifact",
-        "  changes the value the pin demands (see the script's docstring).",
+        "- An artifact counts as a source of a claim when changing that artifact (its numbers, its",
+        "  records or its labels) changes the value the pin demands; see the script's docstring.",
     ]
     if resolved < len(rows):
         out.append(
             f"- The other {len(rows) - resolved} are marked `—`: no perturbation of a single artifact "
             "moved them, typically because they rest on a field that cannot change without "
-            "breaking the computation (an identifier, a version string) or on several artifacts at once. "
+            "breaking the computation (an identifier, a version string) or on a protocol document rather than an artifact. "
             "`scripts/check_manuscript.py` still pins each of them."
         )
     out += ["", "## By place in the paper", "", "| Place | Pinned figures | Artifacts |", "|---|---:|---|"]
